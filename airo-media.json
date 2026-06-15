@@ -1,0 +1,98 @@
+{
+  "logo/primary": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/transparent-f311f71370b570c01a0dfb1860a5fcc8/logo-ak-f311f7.png",
+    "searchQuery": "A clean geometric monogram logo — the letters \"AK\" in a bold, minimal sans-serif",
+    "alternatives": [
+      "/airo-assets/uploads/airo-logo-shimmer-square.svg"
+    ],
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/transparent-f311f71370b570c01a0dfb1860a5fcc8/logo-ak-f311f7.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/solid-caf9730a77412dc8a709c7d90ece657e/logo-ak-caf973.png"
+    },
+    "reversedUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/transparent-f311f71370b570c01a0dfb1860a5fcc8/logo-ak-f311f7.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/reversed-27374e24519d05758a2ecf5633d09eae/logo-ak-27374e.png"
+    },
+    "reversedSolidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/transparent-f311f71370b570c01a0dfb1860a5fcc8/logo-ak-f311f7.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/reversed-solid-16ec3276f6be56282e05f726b60302d7/logo-ak-16ec32.png"
+    },
+    "mockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/transparent-f311f71370b570c01a0dfb1860a5fcc8/logo-ak-f311f7.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/mockup-e54e465cc7c4fbed6f97412a1122890c/logo-ak-e54e46.png"
+    },
+    "landscapeMockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/transparent-f311f71370b570c01a0dfb1860a5fcc8/logo-ak-f311f7.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/landscape-mockup-01cbc675ceef48a95c662575338bc53d/logo-ak-01cbc6.png"
+    },
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/transparent-f311f71370b570c01a0dfb1860a5fcc8/logo-ak-f311f7.png": {
+        "sessionId": "9f3ac873-7422-4e80-9217-38b215a41be2",
+        "logoId": "f311f713"
+      }
+    },
+    "userModified": false,
+    "createdAt": "2026-06-14T05:15:25.356Z",
+    "lastUpdated": "2026-06-14T05:16:09.804Z"
+  },
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/horizontal-transparent-a6539cfede8b5b8f68baa4f874b44633/logo-ak-a6539c.png",
+    "searchQuery": "A clean geometric monogram logo — the letters \"AK\" in a bold, minimal sans-serif",
+    "alternatives": [
+      "/airo-assets/uploads/airo-logo-shimmer-horizontal.svg"
+    ],
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/horizontal-transparent-a6539cfede8b5b8f68baa4f874b44633/logo-ak-a6539c.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/horizontal-solid-6aa7a0c87b8fe10ffaac442a50c96931/logo-ak-6aa7a0.png"
+    },
+    "reversedUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/horizontal-transparent-a6539cfede8b5b8f68baa4f874b44633/logo-ak-a6539c.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/horizontal-reversed-145f0cc3b9bb969b7de8bd101f7da861/logo-ak-145f0c.png"
+    },
+    "reversedSolidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/horizontal-transparent-a6539cfede8b5b8f68baa4f874b44633/logo-ak-a6539c.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/horizontal-reversed-solid-f548c49d454e7856704d254f4c954de5/logo-ak-f548c4.png"
+    },
+    "mockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/horizontal-transparent-a6539cfede8b5b8f68baa4f874b44633/logo-ak-a6539c.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/horizontal-mockup-4a4130e24a5fb711bad62a39cd9590f2/logo-ak-4a4130.png"
+    },
+    "landscapeMockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/horizontal-transparent-a6539cfede8b5b8f68baa4f874b44633/logo-ak-a6539c.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/horizontal-mockup-4a4130e24a5fb711bad62a39cd9590f2/logo-ak-4a4130.png"
+    },
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/horizontal-transparent-a6539cfede8b5b8f68baa4f874b44633/logo-ak-a6539c.png": {
+        "sessionId": "9f3ac873-7422-4e80-9217-38b215a41be2",
+        "logoId": "f311f713"
+      }
+    },
+    "userModified": false,
+    "createdAt": "2026-06-14T05:15:25.356Z",
+    "lastUpdated": "2026-06-14T05:16:09.804Z"
+  },
+  "logo/vertical": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/vertical-transparent-abbdb135dd53c7b076defb7583d6c295/logo-ak-abbdb1.png",
+    "searchQuery": "A clean geometric monogram logo — the letters \"AK\" in a bold, minimal sans-serif",
+    "alternatives": [
+      "/airo-assets/uploads/airo-logo-shimmer-vertical.svg"
+    ],
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/vertical-transparent-abbdb135dd53c7b076defb7583d6c295/logo-ak-abbdb1.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/vertical-solid-04014378d5edd2cb44a1fe069633755c/logo-ak-040143.png"
+    },
+    "reversedUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/vertical-transparent-abbdb135dd53c7b076defb7583d6c295/logo-ak-abbdb1.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/vertical-reversed-0cdc00655668fa2027a35365f0113665/logo-ak-0cdc00.png"
+    },
+    "reversedSolidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/vertical-transparent-abbdb135dd53c7b076defb7583d6c295/logo-ak-abbdb1.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/vertical-reversed-solid-fbbab7a5ca8e8a7fbbdabab7a4b7a047/logo-ak-fbbab7.png"
+    },
+    "mockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/vertical-transparent-abbdb135dd53c7b076defb7583d6c295/logo-ak-abbdb1.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/vertical-mockup-dc459fc58b8165449385d394507f4ee4/logo-ak-dc459f.png"
+    },
+    "landscapeMockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/vertical-transparent-abbdb135dd53c7b076defb7583d6c295/logo-ak-abbdb1.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/vertical-mockup-dc459fc58b8165449385d394507f4ee4/logo-ak-dc459f.png"
+    },
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2916305d-f163-4f7f-a0b7-fff65184fee9/session/9f3ac873-7422-4e80-9217-38b215a41be2/vertical-transparent-abbdb135dd53c7b076defb7583d6c295/logo-ak-abbdb1.png": {
+        "sessionId": "9f3ac873-7422-4e80-9217-38b215a41be2",
+        "logoId": "f311f713"
+      }
+    },
+    "userModified": false,
+    "createdAt": "2026-06-14T05:15:25.356Z",
+    "lastUpdated": "2026-06-14T05:16:09.804Z"
+  }
+}
