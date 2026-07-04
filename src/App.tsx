@@ -92,12 +92,13 @@ export default function App() {
           </a>
           <nav className="flex items-center gap-8">
             {[
-              { href: '#portfolio', label: 'Portfolio ↗' },
+              { href: 'https://portfolio.ashiqkhan.co.in', label: 'Portfolio ↗' },
               { href: '#contact', label: 'Contact' },
             ].map(link => (
               <a
                 key={link.href}
                 href={link.href}
+                {...(link.href.startsWith('http') ? { target: '_blank', rel: 'noopener noreferrer' } : {})}
                 style={{ color: '#9ca3af', fontSize: '14px', textDecoration: 'none' }}
                 onMouseEnter={e => ((e.target as HTMLElement).style.color = '#ffffff')}
                 onMouseLeave={e => ((e.target as HTMLElement).style.color = '#9ca3af')}
@@ -177,7 +178,8 @@ export default function App() {
 
             <div className="flex items-center gap-3 flex-shrink-0">
               <a
-                href="#portfolio"
+                href="https://portfolio.ashiqkhan.co.in"
+                target="_blank"
                 style={{
                   background: '#00c8ff',
                   color: '#080808',
